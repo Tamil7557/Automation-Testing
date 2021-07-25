@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-20T22:05:14 IST" name="Default suite" finished-at="2021-07-20T22:05:47 IST" duration-ms="32424">
+    <groups>
+    </groups>
+    <test started-at="2021-07-20T22:05:14 IST" name="Default test" finished-at="2021-07-20T22:05:47 IST" duration-ms="32424">
+      <class name="payment.TC_payment_13">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:payment.TC_payment_13@659a969b]" started-at="2021-07-20T22:05:14 IST" name="setUp" finished-at="2021-07-20T22:05:28 IST" duration-ms="13889" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="checkCardDetail()[pri:0, instance:payment.TC_payment_13@659a969b]" started-at="2021-07-20T22:05:28 IST" name="checkCardDetail" finished-at="2021-07-20T22:05:42 IST" duration-ms="14066" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCardDetail -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:payment.TC_payment_13@659a969b]" started-at="2021-07-20T22:05:42 IST" name="tearDown" finished-at="2021-07-20T22:05:47 IST" duration-ms="4417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- payment.TC_payment_13 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
